@@ -19,8 +19,9 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
+  <h3 align="center"> Handy</h3> 
   <p align="center">
-    Handy: A collection of python modules for 3D Slicer
+    A collection of python modules for 3D Slicer
     <br />
     <a href="https://github.com/knamdar/Handy/documents"><strong>Explore the docs »</strong></a>
     <br />
