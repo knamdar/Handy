@@ -59,24 +59,16 @@
 
 
 
-### Built With
-
-![PyTorch][pytoch]
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 For each module, refer to its page for more information:
 
-![Product Name Screen Shot][product-screenshot]
 
 1. pySlicer: A module to load and run python scripts in 3D Slicer
+
+![pySlicer Logo][pySlicer]
 
 ```diff
 - Note: each module has its own README file and the structure of subdirectories is unified.
@@ -117,7 +109,7 @@ The resources we found helpful and would like to give credit to.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[product-screenshot]: images/screenshot.png
+[pySlicer]: images/pySlicer.png
 [pytoch-url]: https://pytorch.org
 [pytoch]: https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
 [scikit-learn-url]: https://scikit-learn.org
