@@ -49,7 +49,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## The Team
+## Contributors
 
 * Ernest (Khashayar) Namdar
 
